@@ -1,4 +1,4 @@
-👋 Hi, I'm Dana living in Miami, FL 🌴 for eight years, and I used to live in Seattle, WA 🌧 for ten years, and I've been traveling around the world for about seven years.
+👋 Hi, I'm Dana; living in Miami, FL 🌴 for eight years, and I used to live in Seattle, WA 🌧 for ten years, and I've been traveling around the world in my life.
 
 I've been practicing professionally and as a hobby since 2006 on multiple designs: logotype, UX/UI, iOS/Android, and Desktop apps. I was one of the first to design an Android app in Google Material while it was in the pre-release beta phase in 2015, and this guideline is still up to date today.
 
