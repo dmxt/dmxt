@@ -25,7 +25,7 @@ I'm writing a blog system on the Gatsby engine while studying in-depth React. I'
 Once you start programming, you can't stop.
 
 #### My preferred softwares
-* Terminal. (Can't live without it!)
+* Terminal (Can't live without it!)
 * WebStorm IDE by JetBrains
 * DBeaver SQL
 
