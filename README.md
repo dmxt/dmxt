@@ -13,7 +13,7 @@ When I got hired as a contractor in 2016, I was among the first to design an And
 #### Web Development
 I write front-end development language very well: HTML, SCSS, Bootstrap framework, some JavaScript, React, Python, and theming for WordPress and other site builders. I also wrote a few web browser extensions. In addition, I can handle AWS, DigitalOcean, and a command line for hosting.
 
-#### My startup attempt
+#### My startup attempt (that got sued)
 I created a startup as a co-founder in 2015. Two days after the public launch, we received a cease & desist letter and got sued for 3 million dollars by RIAA, Sony, and other companies in interest. If you're curious, there are five or six articles about us, here's a [final article](https://torrentfreak.com/riaa-and-aurous-settle-piracy-lawsuit-for-3-million-151209/) that concluded the startup.
 
 #### Personal hobby projects
