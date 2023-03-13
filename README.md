@@ -1,11 +1,13 @@
 👋 Hi! I'm Dana. I live in Miami, FL 🌴 for nine years now, I used to live in Seattle, WA 🌧 for ten years, and I've traveled around the world in my earlier life.
 
 #### Design
-I've been practicing professionally and as a hobby since 2006 on design and web development: logotype, UX design, UI design, and app design for iOS, Android, and a desktop. 
+How I got started: I've been practicing professionally and as a hobby since 2006 on design and web development: logotype, UX design, UI design, and app design for iOS, Android, and a desktop.
+
+I started freelancing in 2014.
 
 When I got hired as a contractor, I was among the first to design an Android app in Google Material while it was in the pre-release alpha phase in 2015. This guideline is still up to date seven years later.
 
-#### Front-end Development
+#### Front-end development
 I write front-end development, including HTML, SCSS, Bootstrap framework, some JavaScript, React, Python, and theming for website builders. I also wrote a few web browser extensions. In addition, I can handle AWS, DigitalOcean, and a command line.
 
 #### Personal projects
