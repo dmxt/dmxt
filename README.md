@@ -18,6 +18,10 @@ I pride myself on the excellent jobs I've done, and my portfolio will speak for 
 
 I now have 17 years of experience in my belt.
 
+#### Softwares I use
+* Terminal. Can't live without it!
+* WebStorm & PyCharm by JetBrains
+
 #### My favorite books
 * "The Design of Everyday Things" by Don Norman
 * "Don't Make Me Think: A Common Sense Approach to Web Usability" by Steve Krugs
