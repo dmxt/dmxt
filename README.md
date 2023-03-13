@@ -7,7 +7,7 @@ I started freelancing in 2014.
 
 When I got hired as a contractor, I was among the first to design an Android app in Google Material while it was in the pre-release alpha phase in 2015. This guideline is still up to date seven years later.
 
-#### Front-end development
+#### Development
 I write front-end development, including HTML, SCSS, Bootstrap framework, some JavaScript, React, Python, and theming for website builders. I also wrote a few web browser extensions. In addition, I can handle AWS, DigitalOcean, and a command line.
 
 #### Personal projects
