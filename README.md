@@ -4,21 +4,27 @@
 I pride myself on the excellent jobs I've done, and my portfolio will speak for itself. I have an OCD that contributed to the quality of my visual design work. I read every book regarding usability and user experience. I learned that all UX design studies for basic physical objects apply to an app user experience. I now have 17 years of experience in my belt.
 
 #### Design
-How I got started: I've been practicing professionally and as a hobby since 2006 on design and web development: logotype, UX design, UI design, and app design for iOS, Android, and a desktop.
+How I got started: I've been practicing as a hobby in 2006, by 2009 I started working professionally on design and web development: logotype, UX design, UI design, and app design for iOS, Android, and a desktop.
 
-I started freelancing in 2014.
+I started freelancing in 2014. 
 
-When I got hired as a contractor, I was among the first to design an Android app in Google Material while it was in the pre-release alpha phase in 2015. This guideline is still up to date seven years later.
+When I got hired as a contractor in 2016, I was among the first to design an Android app in Google Material while it was in the Alpha phrase. Android phones didn't use it at the time. I never thought it would be still up to date today, seven years later.
 
-#### Development
-I write front-end development, including HTML, SCSS, Bootstrap framework, some JavaScript, React, Python, and theming for website builders. I also wrote a few web browser extensions. In addition, I can handle AWS, DigitalOcean, and a command line.
+#### Web Development
+I write front-end development language very well: HTML, SCSS, Bootstrap framework, some JavaScript, React, Python, and theming for WordPress and other site builders. I also wrote a few web browser extensions. In addition, I can handle AWS, DigitalOcean, and a command line for hosting.
 
-#### Personal projects
-I'm writing a blog system on the Gatsby engine while studying in-depth React. I've deployed the Gatsby blog to my site on a functional DevOps pipeline. I can commit straight from my computer, and it will auto-build and update the online version for visitors. I've been working on a few programming projects that interested me.
+#### My startup attempt
+I created a startup as a co-founder in 2015. Two days after the public launch, we received a cease & desist letter and got sued for 3 million dollars by RIAA, Sony, and other companies in interest. If you're curious, there are five or six articles about us, here's a [final article](https://torrentfreak.com/riaa-and-aurous-settle-piracy-lawsuit-for-3-million-151209/) that concluded the startup.
+
+#### Personal hobby projects
+I'm writing a blog system on the Gatsby engine while studying in-depth React. I've deployed the Gatsby blog to my site on a functional DevOps pipeline. I can commit straight from my computer, and it will auto-build and update the online version for visitors. I also have been working on a few programming projects that interested me.
+
+Once you start programming, you can't stop.
 
 #### My preferred softwares
-* Terminal. Can't live without it!
-* WebStorm & PyCharm by JetBrains
+* Terminal. (Can't live without it!)
+* WebStorm IDE by JetBrains
+* DBeaver SQL
 
 #### My favorite books
 * "The Design of Everyday Things" by Don Norman
