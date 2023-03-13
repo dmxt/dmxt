@@ -1,7 +1,9 @@
 👋 Hi! I'm Dana. I live in Miami, FL 🌴 for nine years now, I used to live in Seattle, WA 🌧 for ten years, and I've traveled around the world in my earlier life.
 
 #### About myself
-I pride myself on the excellent jobs I've done, and my portfolio will speak for itself. I have an OCD that contributed to the quality of my visual design work. I read every book regarding usability and user experience. I learned that all UX design studies for basic physical objects apply to an app user experience. I now have 17 years of experience in my belt.
+I pride myself on the excellent jobs I've done, and my portfolio will speak for itself. I have an OCD that contributed to the quality of my visual design work. I read a lot of books regarding usability and user experience. I learned that all UX design studies for basic physical objects apply to an app user experience. 
+
+I now have 17 years of experience in my belt.
 
 #### Design
 How I got started: I've been practicing as a hobby in 2006, by 2009 I started working professionally on design and web development: logotype, UX design, UI design, and app design for iOS, Android, and a desktop.
