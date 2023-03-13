@@ -14,11 +14,11 @@ When I got hired as a contractor in 2016, I was among the first to design an And
 I write front-end development language very well: HTML, SCSS, Bootstrap framework, some JavaScript, React, Python, and theming for WordPress and other site builders. I also wrote a few web browser extensions. In addition, I can handle AWS, DigitalOcean, and a command line for hosting.
 
 #### My startup experience
-I created a startup as a "co-founder" in 2015 but all I did was a lot of design work and some of front-end development. Before the launch, most people flocked to it saying how beautiful it looked.
+I created a startup as a "co-founder" in 2015, my task was design and front-end development. Before the launch, most people flocked to it saying how beautiful it looked.
 
 Only two days after the public launch, we received a cease & desist letter and got sued for 3 million dollars by RIAA, Sony, and other companies in interest. If you're curious, there are five or six articles about us, here's a [final article](https://torrentfreak.com/riaa-and-aurous-settle-piracy-lawsuit-for-3-million-151209/) that concluded the startup. 
 
-I just moved to USA at this time, I didn't know the laws very well. Few years later, I found out I was not registered as a co-founder.
+I just moved to USA at this time, I didn't know the laws very well. Few years later, I found out I was not registered as a co-founder. It is still one of my best design work.
 
 #### My experience as a teacher
 I've tutored my friend, Michael from 2014 to 2017. He had zero knowledge of computer, he didn't even know how to use it, but he was very motivated. After 3 years, he started freelancing as a web designer and developer. He's doing very well now. I made a [blog article](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f) about it. 
