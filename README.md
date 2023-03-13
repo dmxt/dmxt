@@ -16,6 +16,9 @@ I write front-end development language very well: HTML, SCSS, Bootstrap framewor
 #### My startup attempt (that got sued)
 I created a startup as a co-founder in 2015. Only two days after the public launch, we received a cease & desist letter and got sued for 3 million dollars by RIAA, Sony, and other companies in interest. If you're curious, there are five or six articles about us, here's a [final article](https://torrentfreak.com/riaa-and-aurous-settle-piracy-lawsuit-for-3-million-151209/) that concluded the startup.
 
+#### My experience as a teacher
+I've tutored my friend, Michael from 2014 to 2017. He had zero knowledge of computer, he didn't even know how to use it, but he was very motivated. After 3 years, he started freelancing as a web designer and developer. He's doing very well now. I made a [blog article](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f) about it. 
+
 #### Personal hobby projects
 I'm writing a blog system on the Gatsby engine while studying in-depth React. I've deployed the Gatsby blog to my site on a functional DevOps pipeline. I can commit straight from my computer, and it will auto-build and update the online version for visitors. I also have been working on a few programming projects that interested me.
 
