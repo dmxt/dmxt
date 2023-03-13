@@ -14,7 +14,9 @@ I write front-end development, including HTML, SCSS, Bootstrap framework, some J
 I'm writing a blog system on the Gatsby engine while studying in-depth React. I've deployed the Gatsby blog to my site on a functional DevOps pipeline. I can commit straight from my computer, and it will auto-build and update the online version for visitors. I've been working on a few programming projects that interested me.
 
 #### About myself
-I pride myself on the excellent jobs I've done, and my portfolio will speak for itself. I have an OCD that contributed to the quality of my visual design work. I read every book regarding usability and user experience. I learned that all UX design studies for basic physical objects apply to today's app UX.
+I pride myself on the excellent jobs I've done, and my portfolio will speak for itself. I have an OCD that contributed to the quality of my visual design work. I read every book regarding usability and user experience. I learned that all UX design studies for basic physical objects apply to today's app UX. 
+
+I now have 17 years of experience in my belt.
 
 #### My sites you can check out
 * https://dmxt.org/
