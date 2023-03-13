@@ -18,7 +18,7 @@ I pride myself on the excellent jobs I've done, and my portfolio will speak for 
 
 I now have 17 years of experience in my belt.
 
-#### Softwares I use
+#### My preferred softwares
 * Terminal. Can't live without it!
 * WebStorm & PyCharm by JetBrains
 
