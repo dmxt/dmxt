@@ -33,6 +33,7 @@ Once you start programming, you can't stop.
 * "The Design of Everyday Things" by Don Norman
 * "Don't Make Me Think: A Common Sense Approach to Web Usability" by Steve Krugs
 * "Logo Modernism" by Jens Müller, R. Roger Remington
+* "CODE - The Hidden Language of Computer Hardware and Software" by Charles Petzold
 * "Eloquent JavaScript" by Marijn Haverbeke
 
 #### My sites you can check out
