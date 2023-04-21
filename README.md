@@ -33,7 +33,6 @@ Once you start programming, you can't stop.
 #### My preferred softwares
 * Terminal (Can't live without it!)
 * WebStorm IDE by JetBrains
-* DBeaver SQL
 
 #### My favorite books
 * "The Design of Everyday Things" by Don Norman
