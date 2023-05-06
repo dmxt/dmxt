@@ -6,11 +6,9 @@ I pride myself on the excellent jobs I've done, and my portfolio will speak for 
 I now have 17 years of experience in my belt.
 
 #### Design
-How I got started: I've been practicing as a hobby in 2006, by 2009 I started working professionally on design and web development: logotype, UX design, UI design, and app design for iOS, Android, and a desktop.
+How I got started: I've been practicing as a hobby in 2006, by 2009 I started working professionally on design and web development: logotype, UX design, UI design, and app design for iOS, Android, and a desktop. I started freelancing in 2014.
 
-I started freelancing in 2014. 
-
-When I got hired as a contractor in 2016, I was among the first to design an Android app in Google Material while it was in the Alpha phrase. Android phones didn't use it at the time. I never thought it would be still up to date today, seven years later.
+When I got hired as a contractor in 2016, I was among the first to design an Android app in Google Material while it was in the Alpha phrase. Android phones didn't use it at the time. Google Material is still up to date today in 2023.
 
 #### Web Development
 I write front-end development language very well: HTML, SCSS, Bootstrap framework, some JavaScript, React, Python, and theming for WordPress and other site builders. I also wrote a few web browser extensions. In addition, I can handle AWS, DigitalOcean, and a command line for hosting.
@@ -23,26 +21,10 @@ Only two days after the public launch, we received a cease & desist letter and g
 #### My experience as a teacher
 I've tutored my friend, Michael from 2014 to 2017. He had zero knowledge of computer, he didn't even know how to use it, but he was very motivated. After 3 years, he started freelancing as a web designer and developer. He's doing very well now. I made a [blog article](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f) about it. 
 
-#### Personal hobby projects
-I'm writing a blog system on the Gatsby engine while studying in-depth React. I've deployed the Gatsby blog to my site on a functional DevOps pipeline. I can commit straight from my computer, and it will auto-build and update the online version for visitors. I also have been working on a few programming projects that interested me.
-
-Once you start programming, you can't stop.
-
-#### My preferred softwares
-* Terminal (Can't live without it!)
-* WebStorm IDE by JetBrains
-
-#### My favorite books
-* "The Design of Everyday Things" by Don Norman
-* "Don't Make Me Think: A Common Sense Approach to Web Usability" by Steve Krugs
-* "Logo Modernism" by Jens Müller, R. Roger Remington
-* "CODE - The Hidden Language" by Charles Petzold
-* "Eloquent JavaScript" by Marijn Haverbeke
-
 #### My sites you can check out
-* https://dmxt.org/
-* https://dmxt.org/blog
-* https://dribbble.com/dmxt
+* https://dmxt.org/ (personal site)
+* https://dmxt.org/blog (blog)
+* https://dribbble.com/dmxt (design portfolio)
 
 #### Contact me
 📫 If you're interested to contact me, send me an email to dana@dmxt.org or reach out on Telegram @dmxtme
