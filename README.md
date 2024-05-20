@@ -24,4 +24,4 @@ I've tutored my friend, Michael from 2014 to 2017. He had zero knowledge of comp
 * https://dribbble.com/dmxt (design portfolio)
 
 ### Contact me
-✉️💌 want to talk with me? contact me on telegram @dmxtme or ig dmxtdesign 
+✉️💌 want to talk with me? contact me on telegram @dmxtme or ig @dmxtme
