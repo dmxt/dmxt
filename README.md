@@ -18,9 +18,10 @@ I created a startup called "Aurous" as a co-founder in 2015, my task was design 
 I've tutored my friend, Michael from 2014 to 2017. He had zero knowledge of computer, he didn't even know how to use it, but he was very motivated. After 3 years, he started freelancing as a web designer and developer. He's doing very well now. I made a [blog article](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f) about it. 
 
 ### My sites you can check out
+(🪦my site is currently down)
 * https://dmxt.org/ (personal site)
 * https://dmxt.org/blog (blog)
 * https://dribbble.com/dmxt (design portfolio)
 
 ### Contact me
-📫 If you're interested to contact me, send me an email to dana@dmxt.org or reach out on Telegram @dmxtme
+✉️💌 want to talk with me? contact me on telegram @dmxtme or an email to dana@dmxt.org
