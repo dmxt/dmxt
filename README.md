@@ -1,4 +1,4 @@
-👋 Hi! I'm Dana. I live in Miami, FL 🌴 for nine years now, I used to live in Seattle, WA 🌧 for ten years, and I've traveled around the world in my earlier life.
+lol👋 Hi! I'm Dana. I live in Miami, FL 🌴 for nine years now, I used to live in Seattle, WA 🌧 for ten years, and I've traveled around the world in my earlier life.
 
 ### About myself
 I pride myself on the excellent jobs I've done, and my portfolio will speak for itself. I have an OCD that contributed to the quality of my visual design work. I read a lot of books regarding usability and user experience. I learned that all UX design studies for basic physical objects apply to an user experience. I now have 17 years of experience in my belt.
@@ -24,4 +24,4 @@ I've tutored my friend, Michael from 2014 to 2017. He had zero knowledge of comp
 * https://dribbble.com/dmxt (design portfolio)
 
 ### Contact me
-✉️💌 want to talk with me? contact me on telegram @dmxtme or an email to dana@dmxt.org
+✉️💌 want to talk with me? contact me on telegram @dmxtme or ig dmxtdesign 
