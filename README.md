@@ -19,9 +19,13 @@ I've tutored my friend, Michael from 2014 to 2017. He had zero knowledge of comp
 
 ### My sites you can check out
 (🪦my site is currently down)
-* https://dmxt.org/ (personal site)
-* https://dmxt.org/blog (blog)
+* https://dmxt.org/ (personal site)as
+re Pop a
+* https://dmxt.org/blog (blog)a
 * https://dribbble.com/dmxt (design portfolio)
 
 ### Contact me
-✉️💌 want to talk with me? contact me on telegram @dmxtme or ig @dmxtme
+want to talk with me? contact me on telegram @dmxtme
+ig @dmxtme
+twitter @dmxt
+or LinkedIn @dmxt 
