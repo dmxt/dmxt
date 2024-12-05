@@ -21,8 +21,8 @@ In 2015, I co-founded the startup “Aurous” and was responsible for designing
 During my tenure as a tutor from 2014 to 2017, I worked with my friend Michael, who lacked prior computer knowledge. Despite this, he demonstrated exceptional motivation and utilized a limited 9-inch Windows netbook for his studies. After three years of dedicated tutoring, Michael transitioned into freelance work as a web designer and developer. His remarkable progress led him to replace his old netbook with a MacBook Pro for his professional endeavors. I have documented my experiences and insights in a blog post titled “[Blog Article](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f)”. 
 
 ## My portfolio
-My new website is currently in a state of development. So far, I have established a functional production pipeline.
-* For now, you can view my work on [Dribbble](https://dribbble.com/dmxt).
+You can view my work on [Dribbble](https://dribbble.com/dmxt).
+My new website is currently in a state of development.
 
 # Contact me
 * [Telegram](https://t.me/dmxtme)
