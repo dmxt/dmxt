@@ -1,31 +1,31 @@
-Hi! I'm Dana. I live in Miami, FL 🌴 for nine years now, I used to live in Seattle, WA for ten years, and I've traveled around the world in my earlier life.
+Hi! I’m Dana. I’ve lived in Miami, FL for nine years, Seattle, WA for ten years, and traveled the world before that.
 
 ### About myself
-I pride myself on the excellent jobs I've done, and my portfolio will speak for itself. I have an OCD that contributed to the quality of my visual design work. I read a lot of books regarding usability and user experience. I learned that all UX design studies for basic physical objects apply to an user experience. I now have 17 years of experience in my belt.
+I take pride in the exceptional work I have accomplished, and my portfolio serves as a testament to my skills. My obsessive-compulsive disorder has played a significant role in enhancing the quality of my visual design work. I have dedicated myself to extensive reading on usability and user experience, which has greatly contributed to my expertise. With over 17 years of experience in the field, I am confident in my abilities.
 
 #### Design
-How I got started: I've been practicing as a hobby in 2006, by 2009 I started working professionally on design and web development: logotype, UX design, UI design, and app design for iOS, Android, and a desktop. I started freelancing in 2014.
+My professional journey began in 2009 when I transitioned from a hobbyist to a professional designer and web developer. My expertise encompasses logotype design, user experience (UX) design, user interface (UI) design, and application design for iOS, Android, and desktop platforms. I embarked on my freelance career in 2014.
 
-When I got hired as a contractor in 2016, I was among the first to design an Android app in Google Material while it was in the Alpha phrase. Android phones didn't use it at the time. Google Material is still up to date today in 2023.
+When I was hired as a contractor in 2016, I was one of the first to design an Android app using Google Material, even though Google Material was still in the Alpha phase at the time, while Android itself didn’t use Google Material. The design I created over eight years ago is still relevant and up-to-date today.
 
 #### Web Development
-I write front-end development language very well: HTML, SCSS, Bootstrap framework, some JavaScript, React, Python, and theming for WordPress and other site builders. I also wrote a few web browser extensions. In addition, I can handle AWS, DigitalOcean, and a command line for hosting.
+I specialize in front-end development, proficient in languages such as HTML, SASS, PHP, JavaScript, React, Python, and WordPress theming. I also have experience in other engines like Shopify. Additionally, I’ve created a few web browser extensions. 
 
-#### My startup experience
-I created a startup called "Aurous" as a co-founder in 2015, my task was design and front-end development. Before the launch, many people flocked to it saying how beautiful it looked. It is still one of my best design work. Only two days after the public launch, we received a cease & desist letter and got sued for 3 million dollars by RIAA, Sony, and other companies in interest, I had to go to the federal court and it concluded just fine.
+#### Hosting
+I primarily use AWS, DigitalOcean, and Netlify, all managed through the command line. Additionally, I’ve become familiar with an online cPanel-style hosting site.
 
-#### My experience as a teacher
-I've tutored my friend, Michael from 2014 to 2017. He had zero knowledge of computer, he didn't even know how to use it, but he was very motivated. After 3 years, he started freelancing as a web designer and developer. He's doing very well now. I made a [blog article](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f) about it. 
+### My startup
+In 2015, I co-founded the startup “Aurous” and was responsible for designing and front-end development. Prior to its launch, the website garnered significant attention for its aesthetically pleasing design. Notably, it remains one of my most accomplished design projects. However, just two days after its public launch, we received a cease and desist letter and were subsequently sued for $3 million by RIAA, Sony, and other entities interested in the content
 
-### My sites you can check out
-(🪦my site is currently down)
-* https://dmxt.org/ (personal site)as
-re Pop a
-* https://dmxt.org/blog (blog)a
-* https://dribbble.com/dmxt (design portfolio)
+### My experience as a mentor
+During my tenure as a tutor from 2014 to 2017, I worked with my friend Michael, who lacked prior computer knowledge. Despite this, he demonstrated exceptional motivation and utilized a limited 9-inch Windows netbook for his studies. After three years of dedicated tutoring, Michael transitioned into freelance work as a web designer and developer. His remarkable progress led him to replace his old netbook with a MacBook Pro for his professional endeavors. I have documented my experiences and insights in a blog post titled “[Blog Article](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f)”. 
+
+### My portfolio
+My new website is currently in a state of development. So far, I have established a functional production pipeline.
+* For now, you can view my work on [Dribbble](https://dribbble.com/dmxt).
 
 ### Contact me
-want to talk with me? contact me on telegram @dmxtme
-ig @dmxtme
-twitter @dmxt
-or LinkedIn @dmxt 
+* [Telegram](https://t.me/dmxtme)
+* [Twitter](https://x.com/dmxt)
+* [LinkedIn](https://linkedin.com/dmxt)
+* [Dribbble](https://dribbble.com/dmxt) 
