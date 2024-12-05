@@ -1,6 +1,6 @@
 Hello! I’m Dana. I'm an UX/UI designer with development skills. I spent eleven years in Miami, ten years in Seattle, and before that, I traveled the world.
 
-## About myself
+# About me
 I take pride in the exceptional work I have accomplished, and my portfolio serves as a testament to my skills. My obsessive-compulsive disorder has played a significant role in enhancing the quality of my visual design work. I have dedicated myself to extensive reading on usability and user experience, which has greatly contributed to my expertise. With over 17 years of experience in the field, I am confident in my abilities.
 
 ### Design
