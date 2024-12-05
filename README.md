@@ -6,8 +6,8 @@ I take pride in the exceptional work I have accomplished, and my portfolio serve
 ### Design
 My professional journey began in 2009 when I transitioned from a hobbyist to a professional designer and web developer. My expertise encompasses logotype design, user experience (UX) design, user interface (UI) design, and application design for iOS, Android, and desktop platforms. I embarked on my freelance career in 2014.
 
-#### One of the first Google Material designer
-While Google Android did'nt utilize Google Material in their app, I was hired as a contractor in 2016, I was one of the first to design an Android app using Google Material using the official alpha design guideline. The design I created over eight years ago is still relevant and up-to-date today.
+#### One of the first Google Material designer t 
+Although Google Android did not incorporate Google Material into its applications, I was hired as a contractor in 2016 and was one of the pioneers to design an Android application utilizing Google Material in accordance with the official alpha design guideline. The design I created over eight years ago remains relevant and current.
 
 ### Web Development
 I specialize in front-end development, proficient in languages such as HTML, SASS, PHP, JavaScript, React, Python, and WordPress theming. I also have experience in other engines like Shopify. Additionally, I’ve created a few web browser extensions. 
