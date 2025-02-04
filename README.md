@@ -13,7 +13,7 @@ Although Google Android did not incorporate Google Material into its application
 I specialize in front-end development, proficient in languages such as HTML, SASS, PHP, JavaScript, React, Python, and WordPress theming. I also have experience in other engines like Shopify. Additionally, I’ve created a few web browser extensions. 
 
 ### Hosting
-I primarily use AWS, DigitalOcean, and Netlify, all managed through the command line. Additionally, I’ve become familiar with an online cPanel-style hosting site.
+I primarily use AWS, DigitalOcean, and Netlify, all managed through the command line. I'm familiar with an online cPanel-style hosting site, but prefer command-line for more seamless DevOps cycle.
 
 ## My startup
 In 2015, I co-founded the startup “Aurous” and was responsible for designing and front-end development. Prior to its launch, the website garnered significant attention for its aesthetically pleasing design. Notably, it remains one of my most accomplished design projects. However, just two days after its public launch, we received a cease and desist letter and were subsequently sued for $3 million by RIAA, Sony, and other entities interested in the content
