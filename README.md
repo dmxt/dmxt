@@ -23,7 +23,7 @@ During my tenure as a tutor from 2014 to 2017, I worked with my friend Michael, 
 
 ## My portfolio
 You can view my work on [Dribbble](https://dribbble.com/dmxt).
-My new website is currently in a state of development.
+My new website is currently in a state of development 🏗️
 
 # Contact me
 * [Telegram](https://t.me/dmxtme)
