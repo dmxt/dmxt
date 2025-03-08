@@ -1,10 +1,10 @@
 Hello! I’m Dana. I'm an UX/UI designer with development skills. I spent eleven years in Miami, ten years in Seattle, and before that, I traveled the world.
 
 # About me
-I take pride in the exceptional work I have accomplished, and my portfolio serves as a testament to my skills. My obsessive-compulsive disorder has played a significant role in enhancing the quality of my visual design work. I have dedicated myself to extensive reading on usability and user experience, which has greatly contributed to my expertise. With over 17 years of experience in the field, I am confident in my abilities.
+I have over 17 years of experience in design and a little bit less in development. I take pride in the exceptional work I have accomplished, and my portfolio serves as a testament to my skills. I have an OCD and it's my significant role in enhancing the quality of my work. I have read a lot of books on design.
 
 ### Design
-My professional journey began in 2009 when I transitioned from a hobbyist to a professional designer and web developer. My expertise encompasses logotype design, user experience (UX) design, user interface (UI) design, and application design for iOS, Android, and desktop platforms. I embarked on my freelance career in 2014.
+My professional journey began in 2009 when I started designing as a hobby, by 2014 I became a professional designer and web developer. My expertise is user experience & interface (UIX) design for sites, logotype & branding, and app design for iOS, Android, desktop platforms.
 
 #### One of the first Google Material designer
 Although Google Android did not incorporate Google Material into its applications, I was hired as a contractor in 2016 and was one of the pioneers to design an Android application utilizing Google Material in accordance with the official alpha design guideline. The design I created over eight years ago remains relevant and current.
