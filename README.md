@@ -6,8 +6,8 @@ I have over 17 years of experience in design and a little bit less in developmen
 ### Design
 My professional journey began in 2009 when I started designing as a hobby, by 2014 I became a professional designer and web developer. My expertise is user experience & interface (UIX) design for sites, logotype & branding, and app design for iOS, Android, desktop platforms.
 
-#### One of the first Google Material designer
-Although Google Android did not incorporate Google Material into its applications, I was hired as a contractor in 2016 and was one of the pioneers to design an Android application utilizing Google Material in accordance with the official alpha design guideline. The design I created over eight years ago remains relevant and current.
+#### One of the first Google Material app designer
+While Android was still on Gingerbread operating system and Android did not incorporate Google Material into their own applications, I was hired as a contractor in 2016 and was one of the first designer to design an app utilizing Google Material with studies of the alpha design guidelines. 10 years later, the app design is still up-to-date without any modifications.
 
 ### Web Development
 I specialize in front-end development, proficient in languages such as HTML, SASS, PHP, JavaScript, React, Python, and WordPress theming. I also have experience in other engines like Shopify. Additionally, I’ve created a few web browser extensions. 
