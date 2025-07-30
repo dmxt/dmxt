@@ -15,10 +15,7 @@ I specialize in front-end development, proficient in languages such as HTML, SAS
 ### Hosting
 I primarily use AWS, DigitalOcean, and Netlify, all managed through the command line. I'm familiar with an online cPanel-style hosting site, but prefer command-line for more seamless DevOps cycle.
 
-## My startup
-In 2015, I co-founded the startup “Aurous” and was responsible for designing and front-end development. Prior to its launch, the website garnered significant attention for its aesthetically pleasing design. Notably, it remains one of my most accomplished design projects. However, just two days after its public launch, we received a cease and desist letter and were subsequently sued for $3 million by RIAA, Sony, and other entities interested in the content
-
-## My experience as a mentor
+## Mentoring a student
 During my tenure as a tutor from 2014 to 2017, I worked with my friend Michael, who lacked prior computer knowledge. Despite this, he demonstrated exceptional motivation and utilized a limited 9-inch Windows netbook for his studies. After three years of dedicated tutoring, Michael transitioned into freelance work as a web designer and developer. His remarkable progress led him to replace his old netbook with a MacBook Pro for his professional endeavors. I have documented my experiences and insights in a blog post titled “[Blog Article](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f)”. 
 
 ## My portfolio
