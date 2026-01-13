@@ -1,7 +1,7 @@
 Hello! I’m Dana. I'm an UX/UI designer with development skills. I live in Miami for eleven years, ten years in Seattle, and before that I traveled the world.
 
 # About me
-I have over 19 years of experience in design and a little bit less in development. I take pride in the exceptional work I have accomplished, and my portfolio serves as a testament to my skills. I have an OCD it helped me to enhance the quality of my work. I love reading books about design.
+I have over 19 years of experience in design and 17 years in development. I take pride in the exceptional work I have accomplished. I have an OCD it helped me to enhance the quality of my work.
 
 ### Design
 My professional journey began in 2009 when I started designing as a hobby, by 2014 I became a professional designer and web developer. My expertise is user experience & interface (UIX) design for sites, logotype & branding, and app design for mobile and desktop.
