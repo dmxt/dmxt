@@ -12,7 +12,11 @@ I'm experienced in languages and frameworks such as HTML, SCSS, PHP, JavaScript,
 For hosting, I like DigitalOcean, Netlify, and AWS depending on project needs. I manage my DevOps pipeline through the terminal to keep deploys quick.
 
 ### Teaching
-I was a tutor from 2014 to 2017 while teaching my student, a friend, Michael, who initially lacked any basic computer knowledge. He demonstrated exceptional motivation and utilized an entry-level Windows netbook for his studies. After three years of dedicated tutoring, Michael transitioned into freelance work as a web designer and developer on a Macbook. He's now a CTO for the company he's working for. I have documented my experiences and insights in a [blog post](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f). 
+I was a tutor from 2014 to 2017 while teaching my student, a friend, Michael, who initially lacked any basic computer knowledge. He demonstrated exceptional motivation and utilized an entry-level Windows netbook for his studies. After three years of dedicated tutoring, Michael transitioned into a freelancer as a web designer and developer. 
+
+As of today, he's now a CTO of a company he started working for as a designer and developer. He met his life dreams, ran from his home country and now living in a beautiful European country with her beautiful wife. I couldn't be any more proud.
+
+I have documented my experiences and insights in a [blog post](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f). 
 
 ### Portfolio
 You can view my work on my [Website](https://dmxt.me/) or [Dribbble](https://dribbble.com/dmxt).
