@@ -18,10 +18,5 @@ Today he's the CTO of a company he first joined as a designer and developer. He 
 
 I have documented my experiences and insights in a [blog post](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f). 
 
-### Portfolio
-You can view my work on my [Website](https://dmxt.me/) or [Dribbble](https://dribbble.com/dmxt).
-
 ### Links
-* [X](https://x.com/dmxt)
-* [Website](https://dmxt.me/)
-* [Dribbble](https://dribbble.com/dmxt) 
+You can view my work on my [Website](https://dmxt.me/) or [Dribbble](https://dribbble.com/dmxt).
