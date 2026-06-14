@@ -12,9 +12,9 @@ I'm experienced in languages and frameworks such as HTML, SCSS, PHP, JavaScript,
 For hosting, I like DigitalOcean, Netlify, and AWS depending on project needs. I manage my DevOps pipeline through the terminal to keep deploys quick.
 
 ### Teaching
-I was a tutor from 2014 to 2017 while teaching my student, a friend, Michael, who initially lacked any basic computer knowledge. He demonstrated exceptional motivation and utilized an entry-level Windows netbook for his studies. After three years of dedicated tutoring, Michael transitioned into a freelancer as a web designer and developer. 
+From 2014 to 2017, I tutored my friend Michael, who started out with no real computer knowledge. He was working part-time for below minimum wage when he reached out and asked if I could teach him my trade. He had exceptional motivation, working through every lesson on an entry-level Windows netbook. After three years, he became a freelance web designer and developer.
 
-As of today, he's now a CTO of a company he started working for as a designer and developer. He met his life dreams, ran from his home country and now living in a beautiful European country with her beautiful wife. I couldn't be any more proud.
+Today he's the CTO of a company he first joined as a designer and developer. He met his goals, fled his home country, and now lives in a European country of his dream with a beautiful wife. I couldn't be prouder, I really did change his life for the better.
 
 I have documented my experiences and insights in a [blog post](https://medium.com/@dmxt/mentoring-a-student-who-is-a-computer-casual-to-a-designer-front-end-developer-79cb16afc42f). 
 
