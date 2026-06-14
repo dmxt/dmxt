@@ -1,6 +1,6 @@
 Hello! I’m Dana. I'm based in Miami, Florida.
 
-I'm an UX/UI designer with development skills. I have over 19 years of experience in design and 17 years in development. 
+I'm an UX/UI designer with development skills. I have over 19 years of experience in design and 17 years in web development. 
 
 ### About me
 My design journey began in 2006, when I started designing, as a hobby, with Photoshop CS2. By 2009, I started web development to get some of my hobby projects done. By 2014, I had become a professional freelancer. 
